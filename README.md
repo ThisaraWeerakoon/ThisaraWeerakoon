@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently exploring Java Spring Boot with a big interest in Back-End development.
   
-- 🤔 My interest lies in fullstack development and Machine Learning.
+- 🤔 My interest lies in fullstack development, programming languages and compiler design.
   
 - 💬 Ask me about anything, I love to answer!
   
