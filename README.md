@@ -5,10 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisaraweerakoon" alt="thisaraweerakoon" /></a> </p>
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at University of Moratuwa, Sri Lanka.
+
 - 🌱 I’m currently exploring Java Spring Boot with a big interest in Back-End development.
+  
 - 🤔 My interest lies in fullstack development and Machine Learning.
-💬 Ask me about anything, I love to answer!
-📫 Email me at thisara.weerakoon2001@gmail.com
+  
+- 💬 Ask me about anything, I love to answer!
+  
+- 📫 Email me at thisara.weerakoon2001@gmail.com
 - 📝 I write articles on [https://medium.com/@thisara.weerakoon2001](https://medium.com/@thisara.weerakoon2001)
 
 
