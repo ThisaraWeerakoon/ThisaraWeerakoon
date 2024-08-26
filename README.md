@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisaraweerakoon" alt="thisaraweerakoon" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@thisara.weerakoon2001](https://medium.com/@thisara.weerakoon2001)
+- 📝 I write articles on [https://medium.com/@thisara.weerakoon2001](https://medium.com/@thisara.weerakoon2001)
 
 - 📫 How to reach me **rathnayakawt.21@uom.lk**
 
