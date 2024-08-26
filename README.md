@@ -16,8 +16,6 @@
 - 📝 I write articles on [https://medium.com/@thisara.weerakoon2001](https://medium.com/@thisara.weerakoon2001)
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JeZRAXm4lHKR0flBXJfRO2HIUtviFt_t/view?usp=drive_link](https://drive.google.com/file/d/1JeZRAXm4lHKR0flBXJfRO2HIUtviFt_t/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
