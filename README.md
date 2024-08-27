@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thisara Weerakoon</h1>
 <h3 align="center">Computer Science and Engineering Undergraduate </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisaraweerakoon&label=Profile%20views&color=0e75b6&style=flat" alt="thisaraweerakoon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisaraweerakoon" alt="thisaraweerakoon" /></a> </p>
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at University of Moratuwa, Sri Lanka.
 
 - 🌱 I’m currently exploring Java Spring Boot with a big interest in Back-End development.
