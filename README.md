@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thisara Weerakoon</h1>
+<h1 align="center">Hi 👋, I'm Thisara Rathnayaka Weerakoon</h1>
 <h3 align="center">Computer Science and Engineering Undergraduate </h3>
 
 
