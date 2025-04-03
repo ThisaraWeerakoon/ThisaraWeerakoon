@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at University of Moratuwa, Sri Lanka.
 
-- 🌱 I’m currently exploring Java Spring Boot with a big interest in Back-End development.
+- 🌱 I’m currently exploring Go language with a big interest in Cloud native applications.
   
 - 🤔 My interest lies in fullstack development, programming languages and compiler design.
   
