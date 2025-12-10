@@ -45,7 +45,7 @@
 
 **Libraries and Frameworks:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Triton](https://img.shields.io/badge/Triton-000000?logo=triton&logoColor=white) ![LangChain4j](https://img.shields.io/badge/LangChain4j-121212?logo=apachemaven&logoColor=white)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisaraweerakoon&show_icons=true&locale=en&layout=compact" alt="thisaraweerakoon" /></p>
+
 
 
 
