@@ -18,26 +18,6 @@
 <p align="left">
 </p>
 
-<h1 align="center">Hi 👋, I'm Thisara Rathnayaka Weerakoon</h1>
-<h3 align="center">Computer Science and Engineering Undergraduate </h3>
-
-
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at University of Moratuwa, Sri Lanka. I am an Apache Committer and open source enthusiast. 
-
-- 🌱 I’m currently exploring Go language with a big interest in Cloud native applications.
-  
-- 🤔 My interest lies in fullstack development and compilers for AI.
-  
-- 💬 Ask me about anything, I love to answer!
-  
-- 📫 Email me at thisara.weerakoon2001@gmail.com
-- 📝 I write articles on [https://medium.com/@thisara.weerakoon2001](https://medium.com/@thisara.weerakoon2001)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 ## Skills
 
 **Programming Languages:**  
