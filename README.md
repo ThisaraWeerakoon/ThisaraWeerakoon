@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thisara Rathnayaka Weerakoon</h1>
-<h3 align="center">Computer Science and Engineering Undergraduate </h3>
+<h3 align="center">Software Engineer @wso2 </h3>
 
-
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at University of Moratuwa, Sri Lanka. I am an Apache Committer and open source enthusiast. 
+- 💼 I’m currently working as a Software Engineer @wso2. 
+  
+- 🎓 I hold a First Class Honors degree in Computer Science and Engineering from the University of Moratuwa, Sri Lanka. I am also an Apache Committer/PMC member and open source enthusiast.
   
 - 🤔 My interest lies in fullstack development and compilers for AI.
   
