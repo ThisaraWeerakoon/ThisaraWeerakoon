@@ -5,7 +5,7 @@
   
 - 🎓 I hold a First Class Honors degree in Computer Science and Engineering from the University of Moratuwa, Sri Lanka. I am also an Apache Committer/PMC member and open source enthusiast.
   
-- 🤔 My interest lies in fullstack development and compilers for AI.
+- 🤔 My interest lies in systems research for machine learning era.
   
 - 💬 Ask me about anything, I love to answer!
   
